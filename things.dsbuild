@@ -1,0 +1,6 @@
+using "sdk/dsharp-0.1"
+
+project things: library
+{
+	files = "things.ds"
+}

@@ -1,0 +1,7 @@
+
+module myLib
+
+fn testing(int num) -> string
+{
+	return $"test {num}"
+}
